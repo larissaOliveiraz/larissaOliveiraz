@@ -1,7 +1,7 @@
 Larissa Oliveira
 =================================
 
-Desenvolvimento Mobile - React Native/Kotlin
+Desenvolvimento Mobile - React Native
 ------------------------------------
 
 Venho aprendendo programação a cerca de 1 ano, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento mobile com React Native que foi minha área escolhida
