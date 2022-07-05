@@ -4,7 +4,7 @@ Larissa Oliveira
 Desenvolvimento Front-end - React/React Native
 ------------------------------------
 
-Venho aprendendo programação a cerca de 1 ano, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento mobile com React Native que foi minha área escolhida
+Venho aprendendo programação a cerca de 1 ano, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end e mobile com React e React Native.
 
 * ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
 * 🧠  Estou aprendendo: React Native, Kotlin e Typescript
