@@ -1,13 +1,13 @@
 Larissa Oliveira
 =================================
 
-Desenvolvimento Front-end - React & React Native
+Desenvolvimento Front-end - React & NextJS
 ------------------------------------
 
-Venho aprendendo programação a cerca de 1 ano e meio, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end web e mobile com React e React Native.
+Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end com React e NextJS.
 
 * ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
-* 🧠  Estou aprendendo: NextJS, React Native e Tailwind
+* 🧠  Estou aprendendo: NextJS, React Native e Java
 
 ### Skills
 
