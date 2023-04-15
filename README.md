@@ -7,7 +7,7 @@ Desenvolvimento Front-end - React & NextJS
 Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end com React e NextJS.
 
 * ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
-* 🧠  Estou aprendendo: NextJS, React Native e Java
+* 🧠  Estou aprendendo: NextJS, React Native, Java e Spring-boot
 
 ### Skills
 
@@ -30,6 +30,6 @@ Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, Ja
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-stats.vercel.app/api?username=larissaOliveiraz&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" width="420" alt="larissaOliveiraz's GitHub stats" /></a>
-<a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaOliveiraz&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420" /></a>
+<a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaOliveiraz&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="465" /></a>
 
 <a href="http://www.github.com/larissaOliveiraz"><img src="https://activity-graph.herokuapp.com/graph?username=larissaOliveiraz&bg_color=181824&color=ffffff&line=10b981&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
