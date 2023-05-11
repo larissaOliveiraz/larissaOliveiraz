@@ -7,7 +7,8 @@ Desenvolvimento Front-end - React & NextJS
 Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end com React e NextJS.
 
 * ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
-* 🧠  Estou aprendendo: NextJS, React Native, Java e Spring-boot
+* 💻   https://larissa-portifolio.vercel.app
+* 🧠   Estou aprendendo: NextJS, React Native, Java e Spring-boot
 
 ### Skills
 
