@@ -1,14 +1,14 @@
 Larissa Oliveira
 =================================
 
-Desenvolvimento Front-end - React & NextJS
+Desenvolvimento FullStack - React, NextJS, NodeJS
 ------------------------------------
 
 Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end com React e NextJS.
 
 * ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
 * 💻   https://larissa-portifolio.vercel.app
-* 🧠   Estou aprendendo: NextJS, React Native, Java e Spring-boot
+* 🧠   Estou aprendendo: NodeJS, ExpressJS, Java e Spring
 
 ### Skills
 
@@ -21,6 +21,9 @@ Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, Ja
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+###
 </p>
 
 
@@ -32,5 +35,3 @@ Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, Ja
 
 <a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-stats.vercel.app/api?username=larissaOliveiraz&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" width="380" alt="larissaOliveiraz's GitHub stats" /></a>
 <a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaOliveiraz&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420" /></a>
-
-<a href="http://www.github.com/larissaOliveiraz"><img src="https://activity-graph.herokuapp.com/graph?username=larissaOliveiraz&bg_color=181824&color=ffffff&line=10b981&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
