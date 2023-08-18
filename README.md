@@ -1,37 +1,69 @@
-Larissa Oliveira
-=================================
-
-Desenvolvimento FullStack - React, NextJS, NodeJS
-------------------------------------
-
-Venho aprendendo programação a cerca de 2 anos, inicialmente com HTML, CSS, JavaScript e React. E atualmente focada em desenvolvimento front-end com React e NextJS.
-
-* ✉️  Contato por email: [oliveira.larissa.dv@gmail.com](mailto:oliveira.larissa.dv@gmail.com)
-* 💻   https://larissa-portifolio.vercel.app
-* 🧠   Estou aprendendo: NodeJS, ExpressJS, Java e Spring
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<h1 align="left">Larissa Oliveira</h1>
 
 ###
-</p>
+
+<h3 align="left">Desenvolvimento Backend - NodeJS, Spring Boot</h3>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/larissaOliveiraz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/larissa-oliveira-a04611238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">Me chamo Larissa e sou estudante de Análise e Desenvolvimento de Sistemas. Venho estudando programação por conta própria desde 2021 e em 2022 decidi ingressar na faculdade.<br><br>Começei meus estudos com foco no frontend, mas atualmente estou focada no desenvolvimento backend, utilizando: ExpressJS e Spring Boot</p>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-stats.vercel.app/api?username=larissaOliveiraz&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" width="380" alt="larissaOliveiraz's GitHub stats" /></a>
-<a href="http://www.github.com/larissaOliveiraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaOliveiraz&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420" /></a>
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+
+<h3 align="left">Socials</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/larissaoliveiraz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="oliveira.larissa.dv@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Github Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larissaoliveiraz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=larissaoliveiraz&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
