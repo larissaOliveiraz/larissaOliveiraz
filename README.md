@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">About</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tech</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="left">Socials</h2>
 
 ###
 
@@ -52,14 +52,11 @@
   <a href="https://www.linkedin.com/in/larissaoliveiraz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/LarissaBackend" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
 
-<h2 align="left">Gráfico de Commits</h2>
+<h2 align="left">Commit Graph</h2>
 
 ###
 
